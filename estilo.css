@@ -1,0 +1,55 @@
+Body{
+
+background-color: rgb(219, 215, 215);
+
+}
+
+
+
+
+
+h1 {
+
+    border-spacing: 20px;
+    border: double;
+    border-color: rgb(197, 135, 255);
+    background-color: rgb(217, 206, 219);
+    font-size: 46px;
+   
+
+
+}
+
+h2{
+
+    
+    background-color: rgb(217, 206, 219);
+    font-size: 38px;
+
+
+}
+
+h3{
+
+background-color: rgb(245, 220, 226);
+opacity: 1.0;
+font-size: 34px;
+
+
+}
+
+h4 {
+
+background-color: rgb(200, 200, 240);
+font-size: 27px;
+
+
+}
+
+p{
+
+font-size: 25px;
+
+
+}
+
